@@ -1,0 +1,8 @@
+"C:/Users/daniel/Documents/Appcelerator_Studio_Workspace/FileSystem2/build/android/gen/android/support/v7/appcompat/R.java"
+"C:/Users/daniel/Documents/Appcelerator_Studio_Workspace/FileSystem2/build/android/gen/android/support/v7/cardview/R.java"
+"C:/Users/daniel/Documents/Appcelerator_Studio_Workspace/FileSystem2/build/android/gen/com/daniel/FileSystem2/AssetCryptImpl.java"
+"C:/Users/daniel/Documents/Appcelerator_Studio_Workspace/FileSystem2/build/android/gen/com/daniel/FileSystem2/Filesystem2Activity.java"
+"C:/Users/daniel/Documents/Appcelerator_Studio_Workspace/FileSystem2/build/android/gen/com/daniel/FileSystem2/Filesystem2AppInfo.java"
+"C:/Users/daniel/Documents/Appcelerator_Studio_Workspace/FileSystem2/build/android/gen/com/daniel/FileSystem2/Filesystem2Application.java"
+"C:/Users/daniel/Documents/Appcelerator_Studio_Workspace/FileSystem2/build/android/gen/com/daniel/FileSystem2/R.java"
+"C:/Users/daniel/Documents/Appcelerator_Studio_Workspace/FileSystem2/build/android/gen/ti/modules/titanium/ui/R.java"
